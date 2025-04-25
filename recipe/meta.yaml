@@ -21,7 +21,7 @@ requirements:
     - pip
   run:
     - python >={{ python_min }}
-    - astropy
+    - astropy-base
     - glue-core >=0.15
     - numpy
     - qtpy
